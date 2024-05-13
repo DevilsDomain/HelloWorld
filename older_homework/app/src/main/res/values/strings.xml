@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="camera">Camera</string>
+    <string name="focal_length">Focal Length</string>
+    <string name="iso">ISO</string>
+    <string name="aperture">Aperture</string>
+    <string name="shutter_speed">Shutter Speed</string>
+    <string name="dimensions">Dimensions</string>
+    <string name="views">Views</string>
+    <string name="likes">Likes</string>
+    <string name="downloads">Downloads</string>
+</resources>
